@@ -1,2 +1,3 @@
-# Hello, GIT
-I am addin this from feature-branch
+# HEYOO EVERYONE WELCOME TO MY GIT GUIDE
+
+JSM here for dev 
